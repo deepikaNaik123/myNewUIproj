@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="feedback_array">
+        <item>Idea</item>
+        <item>Problem</item>
+        <item>Question</item>
+        <item>Praise</item>
+
+    </string-array>
+</resources>
